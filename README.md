@@ -37,7 +37,7 @@ We welcome all forms of contributions, including but not limited to new feature 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/jlchen5/BioCondAI/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
